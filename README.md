@@ -1,8 +1,8 @@
 #  Quiz_App
 
 *Quiz_App* is a full-stack web application designed to provide interactive quizzes to users.  
-The backend is developed using the *Spring Boot* framework and integrated with a *MySQL* database for persistent storage.  
-The frontend is built using *HTML, **CSS, and **JavaScript*, providing a responsive and user-friendly interface.
+The backend is developed using the *Spring Boot* framework and integrated with a MySQL database for persistent storage.  
+The frontend is built using HTML, CSS, and JavaScript, providing a responsive and user-friendly interface.
 
 ---
 
