@@ -62,7 +62,7 @@ The frontend is built using HTML, CSS, and JavaScript, providing a responsive an
 ##  How to Run the Project
 
 1. *Clone the repository*  
-   git clone https://github.com/your-username/Quiz_App.git
+   git clone (https://github.com/Ram354/Quiz_app.git)
 
 2. *Backend Setup*
    - Import the backend project into IntelliJ IDEA or Eclipse
